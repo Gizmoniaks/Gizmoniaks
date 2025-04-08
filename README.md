@@ -11,8 +11,8 @@
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,git,html,css,sql" />
 </p>
 
 <hr>

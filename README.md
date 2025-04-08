@@ -12,8 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python, C#" />
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,html,css" />
 </p>
 
 <hr>

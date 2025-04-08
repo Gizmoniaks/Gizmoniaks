@@ -6,3 +6,14 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{Gizmoniaks}/count.svg" alt="Visitor's Count" />
 </div>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python, C#" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+<hr>
